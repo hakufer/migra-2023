@@ -1,11 +1,13 @@
 # Migración - Estado 2024
 
 
-Este repositorio presenta un análisis de la migración reciente en América Latina, centrándose en zonas críticas y datos relevantes sobre la migración neta. Los datos se extraen de World Population Prospects (2023) y se visualizan a través de un mapa interactivo.
 
 ## Contenido
 
-- **[Mapa Interactivo](mapa_migracion_2023_con_zonas_y_datos_ajustados.html)**: Un mapa interactivo que muestra la migración neta en 2023 y zonas críticas en Latinoamérica.
+- **Mapa Interactivo**: Aquí puedes ver el mapa interactivo que muestra la migración neta en 2023 y zonas críticas en Latinoamérica:
+  
+<iframe src="mapa_migracion_2023_con_zonas_y_datos_ajustados.html" width="800" height="600"></iframe>
+
 - **Datos**: Los datos de migración se encuentran en el archivo `migration_total.csv`.
 - **GeoJSON**: El archivo `countries.geo.json` contiene la geometría de los países para el mapa.
 
@@ -21,3 +23,21 @@ Este repositorio presenta un análisis de la migración reciente en América Lat
 
 3. **Cúcuta, Colombia**:
    - Incremento de migrantes en la frontera post-electoral.
+
+## Instrucciones para Ejecutar el Mapa
+
+Para ejecutar el mapa interactivo, simplemente abre el archivo `mapa_migracion_2023_con_zonas_y_datos_ajustados.html` en tu navegador web preferido.
+
+## Requisitos
+
+Asegúrate de tener las siguientes bibliotecas de Python instaladas para ejecutar el código:
+
+- `pandas`
+- `folium`
+- `shapely`
+
+Puedes instalar estas bibliotecas utilizando pip:
+
+```bash
+pip install pandas folium shapely
+
