@@ -24,5 +24,6 @@ Mapa interactivo: https://hakufer.github.io/migra-2024/
 
 ### Panamá (Selva del Darién)
 - **Violencia sexual en la Selva del Darién**: Durante la primera semana de febrero de 2024, Médicos Sin Fronteras atendió a 113 sobrevivientes de violencia sexual entre los migrantes que atravesaron la selva del Darién, de los cuales 9 eran menores de edad. Esta cifra es la más alta registrada en una sola semana desde 2021. [Leer más](https://www.infobae.com/colombia/2024/02/25/el-darien-es-otro-epicentro-de-violencias-sexuales-se-registro-lacifra-mas-alta-desde-2021/)
-- **Proyección de migración**: Se proyecta que 800,000 migrantes crucen la Selva del Darién en 2024, de los cuales 160,000 serían niños o adolescentes, lo que representa un aumento del 40% en comparación con 2023. Entre enero y abril de 2024, 30,000 menores han atravesado esta región, de los cuales 2,000 viajaban sin acompañamiento familiar, triplicando la cifra
+- **Proyección de migración**: Se estima que 800,000 migrantes cruzarán la Selva del Darién en 2024, de los cuales 160,000 serían niños o adolescentes, un incremento del 40% en comparación con 2023. Entre enero y abril de 2024, alrededor de 30,000 menores atravesaron esta región, y 2,000 de ellos viajaban sin acompañamiento familiar, triplicando la cifra del año anterior. [Leer más](https://observador.cr/247-ninos-cruzan-el-darien-cada-dia-2024-proyecta-aumenta-del-40-de-menores-migrando/)
+  
 
